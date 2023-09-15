@@ -1,1 +1,2 @@
-# supersecretmc
+# supersecretmc.com
+play.supersecretmc.com
